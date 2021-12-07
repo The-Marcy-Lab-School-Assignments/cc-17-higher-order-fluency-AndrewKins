@@ -14,7 +14,7 @@
 
 **Test all your solutions for questions 1-6 with the following variable:** 
 
-`const animals =['cheetah','dog', 'cat', 'dodobird', 'bear', 'dolphin']`
+``
 
 1. Write a function named `pluralize` that takes an array of words that are singular and returns a new array of the same words pluralized.
     
